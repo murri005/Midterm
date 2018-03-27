@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Heights and Havoc.unity
+  isLoaded: 1
+  isActive: 1
